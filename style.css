@@ -26,7 +26,7 @@
  }
  .section-header{
   height: 250px;
-  background-image: url('./calendar.img.jpg');
+  background-image: url('https://github.com/monnibhadu123/JS-Major-Project/blob/main/calendar.img.jpg?raw=true');
   background-position: center center;
   background-size: 100%;
 };
